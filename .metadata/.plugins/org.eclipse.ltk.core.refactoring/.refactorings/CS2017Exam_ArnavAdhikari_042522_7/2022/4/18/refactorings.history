@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 2 elements to &apos;CS2017Exam_ArnavAdhikari_042522_7/src/digits&apos;&#x0D;&#x0A;- Original project: &apos;CS2017Exam_ArnavAdhikari_042522_7&apos;&#x0D;&#x0A;- Destination element: &apos;CS2017Exam_ArnavAdhikari_042522_7/src/digits&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     DigitsRunner.java&#x0D;&#x0A;     Digits.java&#x0D;&#x0A;- Update references to refactored element" description="Move compilation units" destination="/src&lt;digits" element1="/src&lt;{DigitsRunner.java" element2="/src&lt;{Digits.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1651004969003" units="2" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;Magic8Ball_ArnavAdhikarai.java&apos; to &apos;Magic8Ball_ArnavAdhikari.java&apos;&#x0D;&#x0A;- Original project: &apos;Magic8Ball_ArnavAdhikari_092721_7&apos;&#x0D;&#x0A;- Original element: &apos;Magic8Ball_ArnavAdhikarai.java&apos;&#x0D;&#x0A;- Renamed element: &apos;Magic8Ball_ArnavAdhikari.java&apos;" description="Rename compilation unit &apos;Magic8Ball_ArnavAdhikarai.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{Magic8Ball_ArnavAdhikarai.java" name="Magic8Ball_ArnavAdhikari.java" references="false" stamp="1632774981239" version="1.0"/>
+</session>

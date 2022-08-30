@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;GroupCount_ArnavAdhikari_121321&apos; to &apos;GroupCounter_ArnavAdhikari_121321&apos;&#x0D;&#x0A;- Original element: &apos;GroupCount_ArnavAdhikari_121321&apos;&#x0D;&#x0A;- Renamed element: &apos;GroupCount_ArnavAdhikari_121321&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;GroupCount_ArnavAdhikari_121321&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=GroupCount_ArnavAdhikari_121321" name="GroupCounter_ArnavAdhikari_121321" references="true" stamp="1639431332568" version="1.0"/>
+</session>

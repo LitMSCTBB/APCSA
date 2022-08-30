@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;Tree.Tree.smallGift(...)&apos; to &apos;largeGift&apos;&#x0D;&#x0A;- Original project: &apos;Tree_ArnavAdhikari_121421_7&apos;&#x0D;&#x0A;- Original element: &apos;Tree.Tree.smallGift(...)&apos;&#x0D;&#x0A;- Renamed element: &apos;Tree.Tree.largeGift(...)&apos;&#x0D;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;smallGift&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;Tree{Tree.java[Tree~smallGift~QGraphics;~I~I~QColor;" name="largeGift" references="true" stamp="1639726141955" version="1.0"/>
+</session>
